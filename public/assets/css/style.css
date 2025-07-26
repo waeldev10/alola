@@ -1,0 +1,19 @@
+
+
+  
+  @font-face {
+    font-family: Madani-Arabic-Regular;
+    src: url('../fonts/alfont_com_Madani-Arabic-Regular-1.ttf') format('truetype');
+  }
+
+  :root{
+    --main-color:#00306D
+    ;
+  }
+
+  body {
+
+    font-family: Madani-Arabic-Regular !important;
+    position: relative;
+  
+  }
